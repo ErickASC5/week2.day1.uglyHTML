@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(53,53,53);
+    text-align: center;
+    color: white;
+}
+
+#top{
+    width: 540px;
+}
+header{
+    font-size: 72px;
+}
+
+.text{
+    background-color: #1A1818;
+    border: 2px solid #FDEFA6;
+}
+
+article img{
+    float:left;
+    width: 200px;
+    height: 200px;
+}
